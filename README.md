@@ -1,27 +1,24 @@
-# Space
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Required tools
+1.VS CodE
+Node js
+LANGUAGES:
+Angular js
+setp-1
+create an empty folder on desktop name which ever name you like .
+step-2: 
+Download the zip file and extract into the folder created before.
+step-3:
+Take a new window in VS CODE open a new window.
+step-4:
+click on new folder and add the folder where you extract the project file. 
+step-5:
+open the project file and open cmd from that location.
+step-6:
+click npm install and started the installation automatically required packages.
+step-7:
+type ng serve your localhost:4200 server is ready
+step-8:
+Go To VS code and run open the chrome type localhost:4200
+step-9:
+Result
+![image](https://user-images.githubusercontent.com/119669618/211132464-42e32920-d3c4-42bf-82a1-2749dcf4fce8.png)
